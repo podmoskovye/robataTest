@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Robata</string>
+    <string name="title_deals">Deals</string>
+    <string name="title_booking">Booking</string>
+    <string name="title_menu">Menu</string>
+    <string name="date_time">Date</string>
+    <string name="table">Table for</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone number</string>
+    <string name="callback">Callback</string>
+    <string name="choose_date">Pick a date</string>
+    <string name="order">Order</string>
+    <string name="robata_booking">Robata booking</string>
+    <string name="booking">Booking</string>
+    <string name="one_hour_booking">One hour to Robata booking</string>
+    <string name="required">This field is required</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="no_server_connection">Can\'t connected to the server</string>
+
+    <string-array name="people_num">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>
